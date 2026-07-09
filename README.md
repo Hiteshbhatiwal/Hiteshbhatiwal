@@ -1,15 +1,14 @@
-# Hi, I'm Hitesh Bhatiwal 👋
+# Hi, I'm Hitesh Bhatiwal 
 
-## 🚀 Second-Year B.Tech CSE (Data Science) Student at SKIT Jaipur
+##  Second-Year B.Tech CSE (Data Science) Student at SKIT Jaipur
 
-- 🌱 Learning AI, Python, C++, Git & GitHub
-- 💻 Interested in AI, Machine Learning and Software Development
-- 🏆 Hackathon Enthusiast
-- 📫 Reach me: hiteshbhatiwal@gmail.com
+-  Learning AI, Python, C++, Git & GitHub
+-  Interested in AI, Machine Learning and Software Development
+-  Hackathon Enthusiast
+-  Reach me: hiteshbhatiwal@gmail.com
 
----
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
