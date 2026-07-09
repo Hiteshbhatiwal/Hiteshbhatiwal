@@ -11,17 +11,12 @@
 
 ## 🐍 Contribution Snake
 
-HTML
-<picture> 
-<source media="(prefers-color-scheme: dark)" 
-srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YO
-UR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg
-"> 
-<source media="(prefers-color-scheme: light)" 
-srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YO
-UR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"> 
-<img alt="github contribution grid snake animation" 
-src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_
-GITHUB_USERNAME/output/github-contribution-grid-snake.svg" 
-width="100%"> 
-</picture> 
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+  srcset="https://raw.githubusercontent.com/Hiteshbhatiwal/Hiteshbhatiwal/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+  srcset="https://raw.githubusercontent.com/Hiteshbhatiwal/Hiteshbhatiwal/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation"
+  src="https://raw.githubusercontent.com/Hiteshbhatiwal/Hiteshbhatiwal/output/github-contribution-grid-snake.svg"
+  width="100%">
+</picture>
